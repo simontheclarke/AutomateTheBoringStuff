@@ -1,2 +1,5 @@
 # ignore all .txt files
 *.txt
+
+#getting rid of .DS_store
+.DS_Store
